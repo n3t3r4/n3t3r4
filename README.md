@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Dart. (Flutter Front-End)
 - 📫 How to reach me: arthurleffa@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a passionate musician.
+- 🎵 Fun fact: I'm a passionate musician. 
