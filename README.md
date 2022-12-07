@@ -8,6 +8,4 @@
 
 ![n3t3r4 Status](https://github-readme-stats.vercel.app/api?username=n3t3r4&show_icons=true&theme=dark)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=n3t3r4&layout=compact)](https://github.com/n3t3r4/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=n3t3r4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=n3t3r4&layout=compact&theme=dark)](https://github.com/n3t3r4/github-readme-stats)
