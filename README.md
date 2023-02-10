@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 I’m looking for new jobs opportunities. (Internship or Junior Level)
-- 🌱 I’m currently learning React/Node (Typescript, Prisma, ViteJS, TailwindCSS)
+- 🌱 I’m currently learning React/NodeJS (Typescript, Prisma, ViteJS, TailwindCSS)
 - 📫 How to reach me: arthurleffa@gmail.com
 - 😄 Pronouns: he/him
 - 🎵 Fun fact: I'm a passionate musician and beatmaker. 
