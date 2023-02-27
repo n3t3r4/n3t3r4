@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m looking for new jobs opportunities. (Internship or Junior Level)
+- 👨‍💻 I’m looking for new jobs opportunities. (Junior Level)
 - 🌱 I’m currently learning the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 - 📫 How to reach me: arthurleffa@gmail.com
 - 😄 Pronouns: he/him
