@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 I’m looking for new jobs opportunities.
-- 🌱 I’m currently learning the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS)
+- 🌱 I’m currently learning OOP with Typescript.
 - 📫 How to reach me: arthurleffa@gmail.com
 - 😄 Pronouns: he/him
 - 🎵 Fun fact: I'm a passionate musician and beatmaker. 
