@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 I’m looking for new jobs opportunities.
-- 🌱 I’m currently learning OOP with Typescript.
+- 🌱 I’m currently learning Java Spring Boot.
 - 📫 How to reach me: arthurleffa@gmail.com
 - 😄 Pronouns: he/him
 - 🎵 Fun fact: I'm a passionate musician and beatmaker. 
