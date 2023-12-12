@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Java Spring Boot.
 - 📫 How to reach me: arthurleffa@gmail.com
 - 😄 Pronouns: he/him
-- 🎵 Fun fact: I'm a passionate musician and beatmaker. 
 
 <div align="center"> 
 
